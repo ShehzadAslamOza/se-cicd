@@ -22,4 +22,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run tests
-        run: python-art.py # Replace 'your_script.py' with the name of your Python script
+        run: python python-art.py # Replace 'your_script.py' with the name of your Python script
